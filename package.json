@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "electron-is-dev": "^2.0.0",
-    "python-shell": "^3.0.1"
+    "python-shell": "^5.0.0"
   }
 }
